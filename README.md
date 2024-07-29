@@ -1,4 +1,8 @@
 # Module Lister
+<p align="center">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="Made with Love" />
+    <img src="https://img.shields.io/badge/Made%20with-love-red" alt="MIT License"/>
+</p>
 
 Lists all the modules from python files in root and subfolders
 
